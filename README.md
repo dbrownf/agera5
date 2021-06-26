@@ -5,7 +5,7 @@ Utility functions to extract data by time and location from locally stored data 
 
 ### Installation  
 ``` r
-devtools::install_github("agrdatasci/agera5", build_vignettes = TRUE)
+devtools::install_github("dbrownf/agera5", build_vignettes = TRUE)
 ```
 
 ### Disclaimer
